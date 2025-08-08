@@ -1,4 +1,4 @@
-# My Educational Certificates
+# My Educational Certificates  🎓
 
 ---
 
