@@ -1,4 +1,4 @@
-# شهاداتي المهنية والتعليمية | My Professional and Educational Certificates
+شهاداتي المهنية| My Professional and Educational Certificates
 
 Certificate Name:  
 Platform:  
@@ -6,13 +6,13 @@ Date Issued:
 Certificate Link:  
 
 ---
-## شهادات DataCamp | DataCamp Certificates
+شهادات DataCamp | Certificates
 ---
 
-## شهادات Coursera | Coursera Certificates
+شهادات Coursera | Certificates
 ---
 
-## شهادات أخرى | Other Certificates
+شهادات أخرى | Other Certificates
 Certificate Name:  SQL 101 
 Platform:  Satr
 Date Issued:  2025/08/06
