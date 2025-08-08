@@ -1,14 +1,8 @@
 # شهاداتي المهنية والتعليمية | My Professional and Educational Certificates
 اسم الشهادة:  
 Certificate Name:  
-
-المنصة:  
 Platform:  
-
-تاريخ الإصدار:  
 Date Issued:  
-
-رابط الشهادة:  
 Certificate Link:  
 
 ---
