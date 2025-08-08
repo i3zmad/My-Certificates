@@ -1,4 +1,4 @@
-# My Professional and Educational Certificates
+# My Educational Certificates
 
 ---
 
