@@ -1,4 +1,16 @@
 # شهاداتي المهنية والتعليمية | My Professional and Educational Certificates
+اسم الشهادة:  
+Certificate Name:  
+
+المنصة:  
+Platform:  
+
+تاريخ الإصدار:  
+Date Issued:  
+
+رابط الشهادة:  
+Certificate Link:  
+
 ---
 ## شهادات DataCamp | DataCamp Certificates
 ---
@@ -11,8 +23,7 @@ Certificate Name: SQL 101
 Platform:  Satr
 Date Issued:  2025/08/06
 Certificate Link:  https://assets.safcsp.cloud/public/certificates/3f635d03-3e2a-4986-a632-223ff108a056/1754433925_8194df0c-6b14-4863-94e1-585a66aa3aa3.png
-hello
-whh
+
 Certificate Name:  SQL
 Platform:  Satr
 Date Issued:  2025/08/08
